@@ -690,7 +690,7 @@ Berfungsi sebagai program utama untuk membuat list, memasukkan lima data, menamp
 
 ##### Output 1
 
-![Screenshot Output Unguided]()
+![Screenshot Output Unguided](https://github.com/imrtn/Modul-5---Struktur-Data/blob/dc8a6879f295f5961c2f201b3f2d221616471ae1/Modul%205/Output/main.cpp.png)
 
 ## Kesimpulan
 
